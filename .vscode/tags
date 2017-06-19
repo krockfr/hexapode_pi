@@ -1,0 +1,170 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ALLCALL	../Adafruit_PCA9685.py	/^ALLCALL            = 0x01$/;"	kind:variable	line:27
+ALL_LED_OFF_H	../Adafruit_PCA9685.py	/^ALL_LED_OFF_H      = 0xFD$/;"	kind:variable	line:22
+ALL_LED_OFF_L	../Adafruit_PCA9685.py	/^ALL_LED_OFF_L      = 0xFC$/;"	kind:variable	line:21
+ALL_LED_ON_H	../Adafruit_PCA9685.py	/^ALL_LED_ON_H       = 0xFB$/;"	kind:variable	line:20
+ALL_LED_ON_L	../Adafruit_PCA9685.py	/^ALL_LED_ON_L       = 0xFA$/;"	kind:variable	line:19
+Adafruit_GPIO	../Adafruit_PCA9685.py	/^            import Adafruit_GPIO.I2C as I2C$/;"	kind:namespace	line:52
+Adafruit_GPIO	../Adafruit_PCA9685.py	/^        import Adafruit_GPIO.I2C as I2C$/;"	kind:namespace	line:39
+Adafruit_PCA9685	../hexapode.py	/^import Adafruit_PCA9685$/;"	kind:namespace	line:7
+Adafruit_PCA9685	../simpletest.py	/^import Adafruit_PCA9685$/;"	kind:namespace	line:9
+Adafruit_PCA9685.py	../Adafruit_PCA9685.py	1;"	kind:file	line:1
+Articulation	../articulation.py	/^class Articulation(object):$/;"	kind:class	line:4
+Articulation	../hexapode.py	/^from articulation import Articulation$/;"	kind:namespace	line:8
+BUFFER_SIZE	../server.py	/^BUFFER_SIZE = 1024$/;"	kind:variable	line:116
+Client	../hexapode_ihm/src/client.py	/^class Client():$/;"	kind:class	line:6
+Client	../hexapode_ihm/src/hexapode_ihm.py	/^from client import Client$/;"	kind:namespace	line:22
+GUI	../hexapode_ihm/src/hexapode_ihm.py	/^class GUI:$/;"	kind:class	line:33
+Gdk	../hexapode_ihm/src/hexapode_ihm.py	/^from gi.repository import Gtk, GdkPixbuf, Gdk$/;"	kind:namespace	line:20
+GdkPixbuf	../hexapode_ihm/src/hexapode_ihm.py	/^from gi.repository import Gtk, GdkPixbuf, Gdk$/;"	kind:namespace	line:20
+Gtk	../hexapode_ihm/src/hexapode_ihm.py	/^from gi.repository import Gtk, GdkPixbuf, Gdk$/;"	kind:namespace	line:20
+Hexapode	../hexapode.py	/^class Hexapode(object):$/;"	kind:class	line:11
+I2C	../Adafruit_PCA9685.py	/^            import Adafruit_GPIO.I2C as I2C$/;"	kind:namespace	line:52
+I2C	../Adafruit_PCA9685.py	/^        import Adafruit_GPIO.I2C as I2C$/;"	kind:namespace	line:39
+INVRT	../Adafruit_PCA9685.py	/^INVRT              = 0x10$/;"	kind:variable	line:28
+LED0_OFF_H	../Adafruit_PCA9685.py	/^LED0_OFF_H         = 0x09$/;"	kind:variable	line:18
+LED0_OFF_L	../Adafruit_PCA9685.py	/^LED0_OFF_L         = 0x08$/;"	kind:variable	line:17
+LED0_ON_H	../Adafruit_PCA9685.py	/^LED0_ON_H          = 0x07$/;"	kind:variable	line:16
+LED0_ON_L	../Adafruit_PCA9685.py	/^LED0_ON_L          = 0x06$/;"	kind:variable	line:15
+MODE1	../Adafruit_PCA9685.py	/^MODE1              = 0x00$/;"	kind:variable	line:9
+MODE2	../Adafruit_PCA9685.py	/^MODE2              = 0x01$/;"	kind:variable	line:10
+OUTDRV	../Adafruit_PCA9685.py	/^OUTDRV             = 0x04$/;"	kind:variable	line:29
+PCA9685	../Adafruit_PCA9685.py	/^class PCA9685(object):$/;"	kind:class	line:45
+PCA9685_ADDRESS	../Adafruit_PCA9685.py	/^PCA9685_ADDRESS    = 0x40$/;"	kind:variable	line:8
+PRESCALE	../Adafruit_PCA9685.py	/^PRESCALE           = 0xFE$/;"	kind:variable	line:14
+Point	../hexapode_ihm/src/hexapode_ihm.py	/^from point import Point$/;"	kind:namespace	line:23
+Point	../hexapode_ihm/src/point.py	/^class Point():$/;"	kind:class	line:5
+Point	../point.py	/^class Point():$/;"	kind:class	line:5
+Point	../server.py	/^from point import Point$/;"	kind:namespace	line:3
+RESTART	../Adafruit_PCA9685.py	/^RESTART            = 0x80$/;"	kind:variable	line:25
+SLEEP	../Adafruit_PCA9685.py	/^SLEEP              = 0x10$/;"	kind:variable	line:26
+SUBADR1	../Adafruit_PCA9685.py	/^SUBADR1            = 0x02$/;"	kind:variable	line:11
+SUBADR2	../Adafruit_PCA9685.py	/^SUBADR2            = 0x03$/;"	kind:variable	line:12
+SUBADR3	../Adafruit_PCA9685.py	/^SUBADR3            = 0x04$/;"	kind:variable	line:13
+TCP_IP	../server.py	/^TCP_IP = '192.168.1.21'$/;"	kind:variable	line:114
+TCP_PORT	../server.py	/^TCP_PORT = 12801$/;"	kind:variable	line:115
+UI_FILE	../hexapode_ihm/src/hexapode_ihm.py	/^UI_FILE = "src\/hexapode_ihm.ui"$/;"	kind:variable	line:29
+__init__	../Adafruit_PCA9685.py	/^    def __init__(self, address=PCA9685_ADDRESS, i2c=None, **kwargs):$/;"	kind:member	line:48
+__init__	../articulation.py	/^    def __init__(self, pt_milieu, pin, carte):$/;"	kind:member	line:8
+__init__	../hexapode.py	/^	def __init__(self):$/;"	kind:member	line:16
+__init__	../hexapode_ihm/src/client.py	/^	def __init__(self):$/;"	kind:member	line:8
+__init__	../hexapode_ihm/src/hexapode_ihm.py	/^	def __init__(self):$/;"	kind:member	line:34
+__init__	../hexapode_ihm/src/point.py	/^	def __init__(self, b1s0, b1s1, b1s2, b2s3, b2s4, b2s5, b3s6, b3s7, b3s8, $/;"	kind:member	line:7
+__init__	../point.py	/^        def __init__(self, pin, carte, angle):$/;"	kind:member	line:6
+analyse	../server.py	/^def analyse(trame):$/;"	kind:function	line:10
+arduino_map	../hexapode.py	/^	def arduino_map(self, x, in_min, in_max, out_min, out_max):$/;"	kind:member	line:65
+articulation.py	../articulation.py	1;"	kind:file	line:1
+avancer	../hexapode.py	/^	def avancer(self):$/;"	kind:member	line:182
+bouger_servo	../hexapode.py	/^	def bouger_servo(self, servo, angle):$/;"	kind:member	line:108
+calc_ik_2D	../hexapode_ihm/src/hexapode_ihm.py	/^	def calc_ik_2D(self, cmdeH, cmdeL):$/;"	kind:member	line:327
+carre	../hexapode_ihm/src/hexapode_ihm.py	/^	def carre(self, a):$/;"	kind:member	line:344
+client.py	../client.py	1;"	kind:file	line:1
+client.py	../hexapode_ihm/src/client.py	1;"	kind:file	line:1
+config.py	../hexapode_ihm/.ropeproject/config.py	1;"	kind:file	line:1
+connection	../hexapode_ihm/src/client.py	/^	def connection(self):$/;"	kind:member	line:28
+connexion_avec_serveur	../client.py	/^connexion_avec_serveur = socket.socket(socket.AF_INET, socket.SOCK_STREAM)$/;"	kind:variable	line:9
+data	../server.py	/^    data = conn.recv(BUFFER_SIZE)$/;"	kind:variable	line:125
+deconnect	../hexapode_ihm/src/client.py	/^	def deconnect(self):$/;"	kind:member	line:25
+division	../Adafruit_PCA9685.py	/^from __future__ import division$/;"	kind:namespace	line:1
+division	../hexapode.py	/^from __future__ import division$/;"	kind:namespace	line:5
+division	../simpletest.py	/^from __future__ import division$/;"	kind:namespace	line:5
+envoir_msg	../hexapode_ihm/src/client.py	/^	def envoir_msg(self, msg):$/;"	kind:member	line:15
+evoluer	../hexapode.py	/^	def evoluer(self):$/;"	kind:member	line:83
+get_carte_adafruit	../articulation.py	/^    def get_carte_adafruit(self):$/;"	kind:member	line:62
+get_pin_adafruit	../articulation.py	/^    def get_pin_adafruit(self):$/;"	kind:member	line:70
+get_point_milieu	../articulation.py	/^    def get_point_milieu(self):$/;"	kind:member	line:24
+get_position_consigne	../articulation.py	/^    def get_position_consigne(self):$/;"	kind:member	line:44
+get_position_courante	../articulation.py	/^    def get_position_courante(self):$/;"	kind:member	line:33
+get_servomax	../articulation.py	/^    def get_servomax(self):$/;"	kind:member	line:56
+get_servomin	../articulation.py	/^    def get_servomin(self):$/;"	kind:member	line:50
+hexapode.py	../hexapode.py	1;"	kind:file	line:1
+hexapode_ihm.py	../hexapode_ihm/src/hexapode_ihm.py	1;"	kind:file	line:1
+hote	../client.py	/^hote = "127.0.0.1"$/;"	kind:variable	line:6
+init_sliders	../hexapode_ihm/src/hexapode_ihm.py	/^	def init_sliders(self):$/;"	kind:member	line:174
+initialiser	../hexapode.py	/^	def initialiser(self):$/;"	kind:member	line:49
+liste_pos	../server.py	/^liste_pos = []$/;"	kind:variable	line:7
+logger	../Adafruit_PCA9685.py	/^logger = logging.getLogger(__name__)$/;"	kind:variable	line:32
+logging	../Adafruit_PCA9685.py	/^import logging$/;"	kind:namespace	line:2
+logging	../simpletest.py	/^import logging$/;"	kind:namespace	line:13
+main	../hexapode_ihm/src/hexapode_ihm.py	/^def main():$/;"	kind:function	line:347
+main.py	../main.py	1;"	kind:file	line:1
+math	../Adafruit_PCA9685.py	/^import math$/;"	kind:namespace	line:4
+math	../hexapode_ihm/src/hexapode_ihm.py	/^import os, sys, time, math$/;"	kind:namespace	line:21
+mon_pode	../main.py	/^mon_pode = Hexapode()$/;"	kind:variable	line:3
+mon_pode	../server.py	/^mon_pode = Hexapode()$/;"	kind:variable	line:109
+msg_a_envoyer	../client.py	/^    msg_a_envoyer = input("> ")$/;"	kind:variable	line:15
+msg_a_envoyer	../client.py	/^    msg_a_envoyer = msg_a_envoyer.encode()$/;"	kind:variable	line:17
+msg_a_envoyer	../client.py	/^msg_a_envoyer = b""$/;"	kind:variable	line:13
+msg_recu	../client.py	/^    msg_recu = connexion_avec_serveur.recv(1024)$/;"	kind:variable	line:20
+on_b1s0_value_changed	../hexapode_ihm/src/hexapode_ihm.py	/^	def on_b1s0_value_changed(self, window):$/;"	kind:member	line:72
+on_b1s1_value_changed	../hexapode_ihm/src/hexapode_ihm.py	/^	def on_b1s1_value_changed(self, window):$/;"	kind:member	line:77
+on_b1s2_value_changed	../hexapode_ihm/src/hexapode_ihm.py	/^	def on_b1s2_value_changed(self, window):$/;"	kind:member	line:82
+on_b2s3_value_changed	../hexapode_ihm/src/hexapode_ihm.py	/^	def on_b2s3_value_changed(self, window):$/;"	kind:member	line:87
+on_b2s4_value_changed	../hexapode_ihm/src/hexapode_ihm.py	/^	def on_b2s4_value_changed(self, window):$/;"	kind:member	line:92
+on_b2s5_value_changed	../hexapode_ihm/src/hexapode_ihm.py	/^	def on_b2s5_value_changed(self, window):$/;"	kind:member	line:97
+on_b3s6_value_changed	../hexapode_ihm/src/hexapode_ihm.py	/^	def on_b3s6_value_changed(self, window):$/;"	kind:member	line:102
+on_b3s7_value_changed	../hexapode_ihm/src/hexapode_ihm.py	/^	def on_b3s7_value_changed(self, window):$/;"	kind:member	line:107
+on_b3s8_value_changed	../hexapode_ihm/src/hexapode_ihm.py	/^	def on_b3s8_value_changed(self, window):$/;"	kind:member	line:112
+on_b4s0_value_changed	../hexapode_ihm/src/hexapode_ihm.py	/^	def on_b4s0_value_changed(self, window):$/;"	kind:member	line:117
+on_b4s1_value_changed	../hexapode_ihm/src/hexapode_ihm.py	/^	def on_b4s1_value_changed(self, window):$/;"	kind:member	line:122
+on_b4s2_value_changed	../hexapode_ihm/src/hexapode_ihm.py	/^	def on_b4s2_value_changed(self, window):$/;"	kind:member	line:127
+on_b5s3_value_changed	../hexapode_ihm/src/hexapode_ihm.py	/^	def on_b5s3_value_changed(self, window):$/;"	kind:member	line:132
+on_b5s4_value_changed	../hexapode_ihm/src/hexapode_ihm.py	/^	def on_b5s4_value_changed(self, window):$/;"	kind:member	line:137
+on_b5s5_value_changed	../hexapode_ihm/src/hexapode_ihm.py	/^	def on_b5s5_value_changed(self, window):$/;"	kind:member	line:142
+on_b6s6_value_changed	../hexapode_ihm/src/hexapode_ihm.py	/^	def on_b6s6_value_changed(self, window):$/;"	kind:member	line:147
+on_b6s7_value_changed	../hexapode_ihm/src/hexapode_ihm.py	/^	def on_b6s7_value_changed(self, window):$/;"	kind:member	line:152
+on_b6s8_value_changed	../hexapode_ihm/src/hexapode_ihm.py	/^	def on_b6s8_value_changed(self, window):$/;"	kind:member	line:157
+on_button_charger_prog_clicked	../hexapode_ihm/src/hexapode_ihm.py	/^	def on_button_charger_prog_clicked(self, window):$/;"	kind:member	line:277
+on_button_connect_clicked	../hexapode_ihm/src/hexapode_ihm.py	/^	def on_button_connect_clicked(self, window):$/;"	kind:member	line:205
+on_button_debug_serveur_clicked	../hexapode_ihm/src/hexapode_ihm.py	/^	def on_button_debug_serveur_clicked(self, window):$/;"	kind:member	line:268
+on_button_disconnect_clicked	../hexapode_ihm/src/hexapode_ihm.py	/^	def on_button_disconnect_clicked(self, window):$/;"	kind:member	line:310
+on_button_execute_clicked	../hexapode_ihm/src/hexapode_ihm.py	/^	def on_button_execute_clicked(self, window):$/;"	kind:member	line:264
+on_button_mvt_haut_clicked	../hexapode_ihm/src/hexapode_ihm.py	/^	def on_button_mvt_haut_clicked(self, window):$/;"	kind:member	line:314
+on_button_raz_prog_clicked	../hexapode_ihm/src/hexapode_ihm.py	/^	def on_button_raz_prog_clicked(self, window):$/;"	kind:member	line:246
+on_button_sauver_prog_clicked	../hexapode_ihm/src/hexapode_ihm.py	/^	def on_button_sauver_prog_clicked(self, window):$/;"	kind:member	line:274
+on_button_save_pos_clicked	../hexapode_ihm/src/hexapode_ihm.py	/^	def on_button_save_pos_clicked(self, window):$/;"	kind:member	line:222
+on_button_set_middle_clicked	../hexapode_ihm/src/hexapode_ihm.py	/^	def on_button_set_middle_clicked(self, window):$/;"	kind:member	line:166
+on_button_set_middle_server_clicked	../hexapode_ihm/src/hexapode_ihm.py	/^	def on_button_set_middle_server_clicked(self, window):$/;"	kind:member	line:162
+on_button_update_clicked	../hexapode_ihm/src/hexapode_ihm.py	/^	def on_button_update_clicked(self, window):$/;"	kind:member	line:271
+on_button_upload_clicked	../hexapode_ihm/src/hexapode_ihm.py	/^	def on_button_upload_clicked(self, window):$/;"	kind:member	line:251
+on_window_destroy	../hexapode_ihm/src/hexapode_ihm.py	/^	def on_window_destroy(self, window):$/;"	kind:member	line:69
+os	../hexapode_ihm/src/hexapode_ihm.py	/^import os, sys, time, math$/;"	kind:namespace	line:21
+paramiko	../hexapode_ihm/src/hexapode_ihm.py	/^import paramiko$/;"	kind:namespace	line:25
+point.py	../hexapode_ihm/src/point.py	1;"	kind:file	line:1
+point.py	../point.py	1;"	kind:file	line:1
+port	../client.py	/^port = 12801$/;"	kind:variable	line:7
+project_opened	../hexapode_ihm/.ropeproject/config.py	/^def project_opened(project):$/;"	kind:function	line:93
+pwm	../simpletest.py	/^pwm = Adafruit_PCA9685.PCA9685()$/;"	kind:variable	line:16
+pwm2	../simpletest.py	/^pwm2 = Adafruit_PCA9685.PCA9685(address=0x41, busnum=1)$/;"	kind:variable	line:19
+recevoir	../hexapode_ihm/src/client.py	/^	def recevoir(self):$/;"	kind:member	line:21
+s	../server.py	/^s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)$/;"	kind:variable	line:118
+server.py	../server.py	1;"	kind:file	line:1
+servo_max	../simpletest.py	/^servo_max = 600  # Max pulse length out of 4096$/;"	kind:variable	line:25
+servo_min	../simpletest.py	/^servo_min = 150  # Min pulse length out of 4096$/;"	kind:variable	line:24
+set_all_pwm	../Adafruit_PCA9685.py	/^    def set_all_pwm(self, on, off):$/;"	kind:member	line:89
+set_position_consigne	../articulation.py	/^    def set_position_consigne(self, angle):$/;"	kind:member	line:39
+set_position_courante	../articulation.py	/^    def set_position_courante(self, angle):$/;"	kind:member	line:27
+set_prefs	../hexapode_ihm/.ropeproject/config.py	/^def set_prefs(prefs):$/;"	kind:function	line:4
+set_pwm	../Adafruit_PCA9685.py	/^    def set_pwm(self, channel, on, off):$/;"	kind:member	line:82
+set_pwm_freq	../Adafruit_PCA9685.py	/^    def set_pwm_freq(self, freq_hz):$/;"	kind:member	line:64
+set_servo_pulse	../simpletest.py	/^def set_servo_pulse(channel, pulse):$/;"	kind:function	line:28
+simpletest.py	../simpletest.py	1;"	kind:file	line:1
+socket	../client.py	/^import socket$/;"	kind:namespace	line:4
+socket	../hexapode_ihm/src/client.py	/^import socket$/;"	kind:namespace	line:4
+socket	../server.py	/^import socket$/;"	kind:namespace	line:4
+software_reset	../Adafruit_PCA9685.py	/^def software_reset(i2c=None, **kwargs):$/;"	kind:function	line:35
+sshCommand	../hexapode_ihm/src/hexapode_ihm.py	/^	def sshCommand(self, hostname, port, username, password, command):$/;"	kind:member	line:197
+sys	../hexapode_ihm/src/hexapode_ihm.py	/^import os, sys, time, math$/;"	kind:namespace	line:21
+tab_prog	../server.py	/^tab_prog = []$/;"	kind:variable	line:8
+test_position_servos	../hexapode.py	/^	def test_position_servos(self):$/;"	kind:member	line:73
+time	../Adafruit_PCA9685.py	/^import time$/;"	kind:namespace	line:3
+time	../hexapode.py	/^import time$/;"	kind:namespace	line:6
+time	../hexapode_ihm/src/hexapode_ihm.py	/^import os, sys, time, math$/;"	kind:namespace	line:21
+time	../server.py	/^import time$/;"	kind:namespace	line:5
+time	../simpletest.py	/^import time$/;"	kind:namespace	line:6
+update_pos_servos	../hexapode_ihm/src/hexapode_ihm.py	/^	def update_pos_servos(self):$/;"	kind:member	line:280
