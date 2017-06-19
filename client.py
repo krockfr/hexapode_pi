@@ -15,7 +15,7 @@ while msg_a_envoyer != b"fin":
     msg_a_envoyer = input("> ")
     # Peut planter si vous tapez des caractères spéciaux
     msg_a_envoyer = msg_a_envoyer.encode()
-    # On envoie le message
+    # On envoie le message t
     connexion_avec_serveur.send(msg_a_envoyer)
     msg_recu = connexion_avec_serveur.recv(1024)
     print(msg_recu.decode()) # Là encore, peut planter s'il y a des accents
